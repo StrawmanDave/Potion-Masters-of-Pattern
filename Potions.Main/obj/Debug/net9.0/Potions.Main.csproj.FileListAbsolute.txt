@@ -1,0 +1,15 @@
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Potion-Masters-of-Pattern\Potions.Main\bin\Debug\net9.0\Potions.Main.exe
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Potion-Masters-of-Pattern\Potions.Main\bin\Debug\net9.0\Potions.Main.deps.json
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Potion-Masters-of-Pattern\Potions.Main\bin\Debug\net9.0\Potions.Main.runtimeconfig.json
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Potion-Masters-of-Pattern\Potions.Main\bin\Debug\net9.0\Potions.Main.dll
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Potion-Masters-of-Pattern\Potions.Main\bin\Debug\net9.0\Potions.Main.pdb
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Potion-Masters-of-Pattern\Potions.Main\obj\Debug\net9.0\Potions.Main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Potion-Masters-of-Pattern\Potions.Main\obj\Debug\net9.0\Potions.Main.AssemblyInfoInputs.cache
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Potion-Masters-of-Pattern\Potions.Main\obj\Debug\net9.0\Potions.Main.AssemblyInfo.cs
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Potion-Masters-of-Pattern\Potions.Main\obj\Debug\net9.0\Potions.Main.csproj.CoreCompileInputs.cache
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Potion-Masters-of-Pattern\Potions.Main\obj\Debug\net9.0\Potions.Main.sourcelink.json
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Potion-Masters-of-Pattern\Potions.Main\obj\Debug\net9.0\Potions.Main.dll
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Potion-Masters-of-Pattern\Potions.Main\obj\Debug\net9.0\refint\Potions.Main.dll
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Potion-Masters-of-Pattern\Potions.Main\obj\Debug\net9.0\Potions.Main.pdb
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Potion-Masters-of-Pattern\Potions.Main\obj\Debug\net9.0\Potions.Main.genruntimeconfig.cache
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Potion-Masters-of-Pattern\Potions.Main\obj\Debug\net9.0\ref\Potions.Main.dll
